@@ -1,7 +1,7 @@
 # I2C_Hardware_Modelling-Verilog-
 
-I maade a simple i2c communication protocol using verilog HDL in Vivado.
-now now it only transmit data from master to slave only.
+I made a simple i2c communication protocol using verilog HDL in Vivado.
+For now it only transmit data from master to slave only.
 slave doesn't have any storage system(just a 8-bit REG for now) to store transmitted data nor it can send data to master.
 
 the aim of the project is to show the basic working of SDA and SCL and their syncronization.
